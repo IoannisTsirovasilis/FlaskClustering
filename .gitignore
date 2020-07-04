@@ -1,0 +1,4 @@
+.vs/
+FlaskClustering/env/
+FlaskClustering/FlaskClustering/__pycache__/
+FlaskClustering/FlaskClustering.pyproj.user
